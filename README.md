@@ -1,6 +1,6 @@
 # project-euler-clojure
 
-(project euler)[https://projecteuler.net/] problems solved in Clojure.
+[Project euler](https://projecteuler.net/) problems solved in Clojure.
 
 ## License
 
