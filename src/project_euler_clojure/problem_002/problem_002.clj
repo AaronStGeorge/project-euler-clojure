@@ -7,4 +7,4 @@
 
 (defn problem-002
   []
-  (apply + (filter even? (take-while #(< % 4e6) (fib-seq)))))
+  (reduce + (filter even? (take-while #(< % 4e6) (fib-seq)))))
