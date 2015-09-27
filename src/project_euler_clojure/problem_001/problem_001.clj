@@ -7,4 +7,4 @@
 
 (defn problem-001
   []
-  (sum-mult-3-9-to-n 1000))
+  (sum-mult-3-9-to-n  1000))
