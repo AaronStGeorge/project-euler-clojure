@@ -5,7 +5,8 @@
             [project-euler-clojure.problem-002.problem-002 :refer :all]
             [project-euler-clojure.problem-003.problem-003 :refer :all]
             [project-euler-clojure.problem-004.problem-004 :refer :all]
-            [project-euler-clojure.problem-005.problem-005 :refer :all]))
+            [project-euler-clojure.problem-005.problem-005 :refer :all]
+            [project-euler-clojure.problem-006.problem-006 :refer :all]))
 
 (deftest problem-001-test
   (testing "problem 1"
@@ -26,3 +27,7 @@
 (deftest problem-005-test
   (testing "problem 3"
     (is (= (problem-005) 232792560))))
+
+(deftest problem-006-test
+  (testing "problem 3"
+    (is (= (problem-006) 25164150))))
