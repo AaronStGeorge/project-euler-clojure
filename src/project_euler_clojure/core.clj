@@ -5,6 +5,7 @@
   (:require [project-euler-clojure.problem-004.problem-004 :refer :all])
   (:require [project-euler-clojure.problem-005.problem-005 :refer :all])
   (:require [project-euler-clojure.problem-006.problem-006 :refer :all])
+  (:require [project-euler-clojure.problem-007.problem-007 :refer :all])
   (:gen-class))
 
 ;; TODO: create a function that will call a specific solution based on number
